@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.c": "c",
+
+  },
+  "files.exclude": {
+    "**/*.o": false,
+
+  },
+  "C_Cpp.files.exclude": {},
+  "C_Cpp.errorSquiggles": "enabled",
+  "C_Cpp.experimentalFeatures": "enabled",
+  "C_Cpp.intelliSenseEngine": "default",
+
+}

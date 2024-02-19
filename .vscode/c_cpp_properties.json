@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "win",
+            "defines": [
+                "TRUE=1",
+                "FALSE=0"
+            ],
+            "compilerPath": "C:/cygwin64/bin/gcc.exe",
+            //   "compileCommands": "${workspaceFolder}/compile_commands.json",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include/**"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
